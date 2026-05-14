@@ -26,7 +26,13 @@ src="https://komarev.com/ghpvc/?username=commitwithankita021&label=PROFILE+VIEWS
 
 </p>
 
----
+---<p align="center">
+
+<img
+src="https://komarev.com/ghpvc/?username=commitwithankita021&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"
+/>
+
+</p>
 
 # 👩‍💻 About Me
 
