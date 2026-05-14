@@ -177,13 +177,6 @@ Responsive food ordering web application with:
 
 ---
 
-## ♻️ ShelfSync (Ongoing)
-
-AI-powered food waste management platform for:
-- Expiry tracking
-- NGO donation workflows
-- Carbon waste reduction
-- Dynamic ML-based discount system
 
 ### Tech Used
 `React.js` `Node.js` `MongoDB` `Express.js`
@@ -236,6 +229,7 @@ AI-powered food waste management platform for:
 
 ---
 
+
 # 🌐 Connect With Me
 
 <p align="center">
@@ -244,12 +238,15 @@ AI-powered food waste management platform for:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/ankita-barman-118a04370">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:tmsl.ecs27.ankita@gmail.com">
+<a href="mailto:barmanmantai025@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>ps://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
